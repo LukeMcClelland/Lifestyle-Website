@@ -1,0 +1,16 @@
+/* code from https://malcoded.com/posts/react-file-upload/ */
+.title{
+    text-align: center;
+}
+
+.galleryImages{
+    width: 400px;
+    margin: 10px;
+    height: 400px;
+    display: block;
+    left: 1000px;
+}
+
+.imageGall{
+    margin-left: 678px;
+}

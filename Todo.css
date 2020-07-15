@@ -1,0 +1,25 @@
+.left{
+    padding-left: 200px;
+}
+.todoInput{
+    width: 65%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.showButt, .addButt{
+    width: 14%;
+    margin-right: 1%;
+
+}
+
+.deleteItem {
+    position: absolute;
+    right: 120px;
+    width: 20px;
+     padding: 2px;
+     font-size: 15px;
+  }
